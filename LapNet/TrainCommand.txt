@@ -1,0 +1,1 @@
+python ../FXXKNet/train.py --train-path ../ShougangDataset/ --lr 3e-4 --gpu-idx 0 --batch-size 24
